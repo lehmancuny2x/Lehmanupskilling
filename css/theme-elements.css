@@ -5,9 +5,9 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	8.3.0
 */
 /* Accordion */
-.accordion {
-		/* Modern */
-}
+/*.accordion {
+		Modern 
+} */
 
 .accordion .card {
 	margin-top: 5px;
@@ -3513,7 +3513,7 @@ html.ie9 .call-to-action.button-centered .container > .row > [class*="col-"], ht
 
 .owl-carousel.nav-arrows-thin .owl-nav .owl-prev:before, .owl-carousel.nav-arrows-thin .owl-nav .owl-next:before {
 	font-family: simple-line-icons;
-	speak: none;
+	/* speak: none; */
 	font-style: normal;
 	font-weight: 700;
 	font-variant: normal;
@@ -13620,10 +13620,10 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 	transform: translateX(-9px);
 }
 
-/* Slider With Overlay */
+/* Slider With Overlay 
 .rev_slider li.slide-overlay {
-		/* Slider With Overlay Opacity Level */
-}
+		Slider With Overlay Opacity Level 
+}*/
 
 .rev_slider li.slide-overlay .slotholder:after {
 	width: 100%;
@@ -14985,9 +14985,9 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 }
 
 /* Simple */
-.tabs.tabs-simple {
-		/* Simple Full Width Line */
-}
+/* .tabs.tabs-simple {
+		Simple Full Width Line 
+} */
 
 .tabs.tabs-simple .nav-tabs {
 	justify-content: center;
@@ -15496,10 +15496,10 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 }
 
 /* With Quotes */
-.testimonial.testimonial-with-quotes {
-		/* Remove Left Quote */
-		/* Remove Right Quote */
-}
+/* .testimonial.testimonial-with-quotes {
+		Remove Left Quote 
+		Remove Right Quote 
+} */
 
 .testimonial.testimonial-with-quotes blockquote:before {
 	color: #777;
@@ -15730,7 +15730,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	background-color: #CCC;
 	border-radius: 2px;
 	display: inline-block;
-	float: left;
+	/* float: left; */
 	font-size: 0.6em;
 	font-weight: 600;
 	letter-spacing: 0;
